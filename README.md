@@ -4,6 +4,8 @@ Detecting and recognising objects in an image is one of the most important tasks
 
 This project uses LSTM(Long Short Term Memory) to generate rich captions from images.
 
+Dataset used: Flickr8K
+
 Input:
 ![Test Image](input.png)
 
