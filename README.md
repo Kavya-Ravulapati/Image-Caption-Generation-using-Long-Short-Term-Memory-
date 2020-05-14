@@ -5,8 +5,8 @@ Detecting and recognising objects in an image is one of the most important tasks
 This project uses LSTM(Long Short Term Memory) to generate rich captions from images.
 
 Input:
-![Test Image](/Users/kavyaravulapati/Desktop/input.png)
+![Test Image](input.png)
 
 Output:
-![Test Image](/Users/kavyaravulapati/Desktop/output.png)
+![Test Image](output.png)
 
